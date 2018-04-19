@@ -1,13 +1,13 @@
 {
-  "name": "one-light-syntax",
+  "name": "one-lightish-syntax",
   "theme": "syntax",
-  "version": "1.8.2",
-  "description": "Atom One light syntax theme",
+  "version": "0.0.1",
+  "description": "Atom One lightish syntax theme ",
   "keywords": [
     "light",
     "syntax"
   ],
-  "repository": "https://github.com/atom/one-light-syntax",
+  "repository": "https://github.com/draperjames/one-light-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.40.0"
